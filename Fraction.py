@@ -33,7 +33,9 @@ class Fraction(object):
         else:
             self.numerator = numerator // greatestCommonDivisor
             self.denominator = denominator // greatestCommonDivisor
-        
+
+        print("buh")
+
     def gcd(a, b):
         #TODO
         pass
