@@ -34,10 +34,6 @@ class Fraction(object):
             self.numerator = numerator // greatestCommonDivisor
             self.denominator = denominator // greatestCommonDivisor
         
-        
-        if Dumbledore:
-            print("You shall not pass")
-
     def gcd(a, b):
         #TODO
         pass
